@@ -1,0 +1,10 @@
+{
+  "search_engine": "Google",
+  "bg_color": "#1a1a1a",
+  "sidebar_color": "#0f0f0f",
+  "accent_color": "#ffffff",
+  "bg_image_path": "",
+  "sidebar_opacity": 100,
+  "corner_radius": "16",
+  "font_size": 15
+}
